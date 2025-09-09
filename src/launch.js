@@ -1,3 +1,3 @@
-import Account from './model/Account.js';
+import {Account} from './model/Account.js';
 
 let account = new Account();
